@@ -66,6 +66,8 @@ oocatcher.cpp – High-level orchestration of object catching logic
 
 snowball_thrower.cpp – Logic for snowball throw scenario
 
+snowball_vis.cpp  - Visual simulation for throwing a snowball
+
 segment.cpp, simplesegment.cpp – Logic for body segments
 
 point.cpp, circle.cpp, body.cpp – Geometric and body logic
