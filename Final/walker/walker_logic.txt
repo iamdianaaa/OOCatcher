@@ -1,0 +1,139 @@
+Initial setup:
+Torso: (0,0) to (3.06162e-16,5)
+Object center: (10, 0), radius: 2
+Initial torso position: (0, 0) to (3.06162e-16, 5)
+Initial horizontal distance: 10
+Rotated: start=(0.5,5) end=(-2.48501,4.7005)
+Rotated: start=(0.5,5) end=(3.48501,4.7005)
+Rotated: start=(0.5,0) end=(-3.495,-0.199917)
+Rotated: start=(0.5,0) end=(-3.495,0.199917)
+Torso position: (0.5, 0) to (0.5, 5)
+Walking - horizontal distance: 9.5
+Rotated: start=(1,5) end=(-1.9402,4.40399)
+Rotated: start=(1,5) end=(3.9402,4.40399)
+Rotated: start=(1,0) end=(-2.98002,-0.399334)
+Rotated: start=(1,0) end=(-2.98002,0.399334)
+Torso position: (1, 0) to (1, 5)
+Walking - horizontal distance: 9
+Rotated: start=(1.5,5) end=(-1.36601,4.11344)
+Rotated: start=(1.5,5) end=(4.36601,4.11344)
+Rotated: start=(1.5,0) end=(-2.45508,-0.597753)
+Rotated: start=(1.5,0) end=(-2.45508,0.597753)
+Torso position: (1.5, 0) to (1.5, 5)
+Walking - horizontal distance: 8.5
+Rotated: start=(2,5) end=(-0.763183,3.83174)
+Rotated: start=(2,5) end=(4.76318,3.83174)
+Rotated: start=(2,0) end=(-1.92027,-0.794677)
+Rotated: start=(2,0) end=(-1.92027,0.794677)
+Torso position: (2, 0) to (2, 5)
+Walking - horizontal distance: 8
+Rotated: start=(2.5,5) end=(-0.132748,3.56172)
+Rotated: start=(2.5,5) end=(5.13275,3.56172)
+Rotated: start=(2.5,0) end=(-1.37565,-0.989616)
+Rotated: start=(2.5,0) end=(-1.37565,0.989616)
+Torso position: (2.5, 0) to (2.5, 5)
+Walking - horizontal distance: 7.5
+Rotated: start=(3,5) end=(0.523993,3.30607)
+Rotated: start=(3,5) end=(5.47601,3.30607)
+Rotated: start=(3,0) end=(-0.821346,-1.18208)
+Rotated: start=(3,0) end=(-0.821346,1.18208)
+Torso position: (3, 0) to (3, 5)
+Walking - horizontal distance: 7
+Rotated: start=(3.5,5) end=(1.20547,3.06735)
+Rotated: start=(3.5,5) end=(5.79453,3.06735)
+Rotated: start=(3.5,0) end=(-0.257491,-1.37159)
+Rotated: start=(3.5,0) end=(-0.257491,1.37159)
+Torso position: (3.5, 0) to (3.5, 5)
+Walking - horizontal distance: 6.5
+Rotated: start=(4,5) end=(1.90988,2.84793)
+Rotated: start=(4,5) end=(6.09012,2.84793)
+Rotated: start=(4,0) end=(0.315756,-1.55767)
+Rotated: start=(4,0) end=(0.315756,1.55767)
+Torso position: (4, 0) to (4, 5)
+Walking - horizontal distance: 6
+Rotated: start=(4.5,5) end=(2.63517,2.65002)
+Rotated: start=(4.5,5) end=(6.36483,2.65002)
+Rotated: start=(4.5,0) end=(0.898212,-1.73986)
+Rotated: start=(4.5,0) end=(0.898212,1.73986)
+Torso position: (4.5, 0) to (4.5, 5)
+Walking - horizontal distance: 5.5
+Rotated: start=(5,5) end=(3.37909,2.47559)
+Rotated: start=(5,5) end=(6.62091,2.47559)
+Rotated: start=(5,0) end=(1.48967,-1.9177)
+Rotated: start=(5,0) end=(1.48967,1.9177)
+Torso position: (5, 0) to (5, 5)
+Walking - horizontal distance: 5
+Rotated: start=(5.5,5) end=(4.13921,2.32638)
+Rotated: start=(5.5,5) end=(6.86079,2.32638)
+Rotated: start=(5.5,0) end=(2.0899,-2.09075)
+Rotated: start=(5.5,0) end=(2.0899,2.09075)
+Torso position: (5.5, 0) to (5.5, 5)
+Walking - horizontal distance: 4.5
+Rotated: start=(6,5) end=(4.91293,2.20388)
+Rotated: start=(6,5) end=(7.08707,2.20388)
+Rotated: start=(6,0) end=(2.69866,-2.25857)
+Rotated: start=(6,0) end=(2.69866,2.25857)
+Torso position: (6, 0) to (6, 5)
+Walking - horizontal distance: 4
+Rotated: start=(6.5,5) end=(5.6975,2.10933)
+Rotated: start=(6.5,5) end=(7.3025,2.10933)
+Rotated: start=(6.5,0) end=(3.31566,-2.42075)
+Rotated: start=(6.5,0) end=(3.31566,2.42075)
+Torso position: (6.5, 0) to (6.5, 5)
+Walking - horizontal distance: 3.5
+Rotated: start=(7,5) end=(6.4901,2.04365)
+Rotated: start=(7,5) end=(7.5099,2.04365)
+Rotated: start=(7,0) end=(3.94063,-2.57687)
+Rotated: start=(7,0) end=(3.94063,2.57687)
+Torso position: (7, 0) to (7, 5)
+Walking - horizontal distance: 3
+Rotated: start=(7.5,5) end=(7.28779,2.00752)
+Rotated: start=(7.5,5) end=(7.71221,2.00752)
+Rotated: start=(7.5,0) end=(4.57324,-2.72656)
+Rotated: start=(7.5,0) end=(4.57324,2.72656)
+Torso position: (7.5, 0) to (7.5, 5)
+Walking - horizontal distance: 2.5
+Rotated: start=(8,5) end=(8,2)
+Rotated: start=(8,5) end=(8,2)
+Rotated: start=(8,0) end=(5.21317,-2.86942)
+Rotated: start=(8,0) end=(5.21317,2.86942)
+Torso position: (8, 0) to (8, 5)
+Walking - horizontal distance: 2
+Rotated: start=(8.5,5) end=(8.5,2)
+Rotated: start=(8.5,5) end=(8.5,2)
+Rotated: start=(8.5,0) end=(5.86007,-3.00512)
+Rotated: start=(8.5,0) end=(5.86007,3.00512)
+Torso position: (8.5, 0) to (8.5, 5)
+Walking - horizontal distance: 1.5
+Rotated: start=(9,5) end=(9,2)
+Rotated: start=(9,5) end=(9,2)
+Rotated: start=(9,0) end=(6.51356,-3.13331)
+Rotated: start=(9,0) end=(6.51356,3.13331)
+Torso position: (9, 0) to (9, 5)
+Walking - horizontal distance: 1
+Rotated: start=(9.5,5) end=(9.5,2)
+Rotated: start=(9.5,5) end=(9.5,2)
+Rotated: start=(9.5,0) end=(7.17327,-3.25366)
+Rotated: start=(9.5,0) end=(7.17327,3.25366)
+Torso position: (9.5, 0) to (9.5, 5)
+Walking - horizontal distance: 0.5
+In position to grab!
+Rotated: start=(9.5,5) end=(9.5,2)
+Rotated: start=(9.5,5) end=(10.9383,2.36725)
+Rotated: start=(9.5,0) end=(10.4933,4.90033)
+Rotated: start=(9.5,0) end=(8.62397,-3.90289)
+Rotated: start=(9.5,0) end=(8.62397,3.90289)
+Reaching - arms at: L(10.4933, 1.90033), R(11.9316, 2.26759)
+Distance to target - L: 1.96333, R: 2.97878
+Touching points: 2
+Distances - armL: 1.96333, armR: 2.97878, legL: 4.13836, legR: 3.53267
+Rotated: start=(10.4933,4.90033) end=(9.05507,2.26759)
+Rotated: start=(10.4933,4.90033) end=(10.4933,1.90033)
+Rotated: start=(9.6,0) end=(11.5397,4.58789)
+Rotated: start=(9.6,0) end=(10.3171,-3.95866)
+Rotated: start=(9.6,0) end=(10.2055,3.3425)
+Reaching - arms at: L(10.1015, 1.95515), R(11.5397, 1.58789)
+Distance to target - L: 1.95778, R: 2.21183
+Touching points: 3
+Distances - armL: 1.95778, armR: 2.21183, legL: 3.97134, legR: 3.26014
+Object successfully grabbed!
