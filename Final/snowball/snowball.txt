@@ -1,0 +1,5 @@
+Snowball thrown!
+Initial Position: (2.78543, 7.88583)
+Velocity Vector: (9.28477, -3.71391)
+Closest approach: 0, Target Radius: 3
+Target hit!
