@@ -1,11 +1,21 @@
 # OOCatcher
 
+## Overview
+
+OOCatcher is a C++ project developed as part of the CS 323 Advanced OOP course at the American University of Armenia. The objective is to simulate an anthropomorphic body composed of interconnected segments, capable of catching a circular object or throwing a snowball at a specified target. This involves concepts of object-oriented design, geometry, and constrained motion.
+
+## Project Structure
+
+The project is divided into two parts: **Preliminary** and **Final Implementation**.
+
+---
+
 ## Preliminary implementation
 
 This part includes the basic classes to implement the project. Those are the classes that we also looked at
 during the lectures with some adjustments.
 
-Deliverables
+### Deliverables
 
 point.h/cpp - a simple class for 2D coordinates
 
@@ -21,7 +31,7 @@ I reviewed one more time all the classes, and rewrote here to then use in the pr
 I have tried to write little test (main.cpp) them sepearetly to just check whether they work fine.
 
 
-References:
+### References:
 
 Lecture codes(took the main logicof the classes to fit to this project specifications further)
 
@@ -37,3 +47,77 @@ AI prompts (paraphrased the question to write here):
 
 
 ## Final implementation
+
+
+### Description
+
+The final version integrates all the components to execute full simulations for two scenarios:
+
+1. **Walker** – The body walks and catches a circle object
+2. **Snowball Thrower** – The body throws a snowball to hit a target without walking
+
+### Files:
+
+main.cpp – Simple tests for preliminary components
+
+mainvis.cpp – Visual simulation for catching object
+
+oocatcher.cpp – High-level orchestration of object catching logic
+
+snowball_thrower.cpp – Logic for snowball throw scenario
+
+segment.cpp, simplesegment.cpp – Logic for body segments
+
+point.cpp, circle.cpp, body.cpp – Geometric and body logic
+
+
+### Compile & Run Instructions
+
+To build and run different scenarios:
+
+#### Walker:
+```bash
+g++ -std=c++17 -o walker main.cpp oocatcher.cpp body.cpp circle.cpp point.cpp segment.cpp simplesegment.cpp
+./walker
+```
+
+#### Walker Visualization:
+```bash
+g++ -std=c++17 -o mainvis mainvis.cpp oocatcher.cpp body.cpp circle.cpp point.cpp segment.cpp simplesegment.cpp
+./mainvis
+```
+
+#### Snowball Thrower:
+```bash
+g++ -o snowball_thrower snowball_thrower.cpp point.cpp segment.cpp body.cpp
+./snowball_thrower
+```
+
+#### Snowball Thrower Visualization:
+```bash
+g++ -o snowballvis snowball_vis.cpp  point.cpp segment.cpp body.cpp
+./snowballvis
+```
+
+---
+
+## Output
+
+- **Result Logs**: Output data such as body movement steps, velocity values, and coordinates for snowball throws are saved in `.txt` files.
+  - These are useful for validation, grading, or further visual analysis.
+
+
+
+### References:
+
+AI Prompts Used
+
+Here are some example prompts that helped guide parts of the development and structure without generating full solutions:
+
+- What would be a step-by-step approach to developing a C++ simulation project incrementally?
+- How to model anthropomorphic motion using line segments and rotation constraints in C++?
+- How do I apply rotation to a 2D segment given a pivot point and an angle?
+- What would be a good structure for a class representing a body composed of jointed segments?
+- Can you suggest some test cases for validating a geometric class like a 2D point, line, or circle?
+- How can I visualize the walker in the terminal to see how it walks and grabs the object?
+- How to combine all these files to create a snowball_thrower class to test the results?
